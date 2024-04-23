@@ -14,7 +14,6 @@ function Homelayout({ children }: { children: ReactNode }) {
                     </div>
                 </section>
             </div>
-            <p>Footer</p>
         </main>
     )
 }
